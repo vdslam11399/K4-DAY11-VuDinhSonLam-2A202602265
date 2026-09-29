@@ -1,0 +1,211 @@
+{
+  "files": [
+    {
+      "file": "00_setup/doctor.txt",
+      "lines": 4,
+      "sha256": "51db3adb147fe01d426217f72cf50702d473665ea1e63cd89faef30fc3c82885"
+    },
+    {
+      "file": "00_setup/mode.json",
+      "lines": 19,
+      "sha256": "1e509061ff36c64bdf498e47426fb09a9d6e344c5d88472bb60425e0239bde82"
+    },
+    {
+      "file": "00_setup/sensor_context.md",
+      "lines": 5,
+      "sha256": "79fae60a9bd34c54a4282604d54a0cd9df9a08aa853ba1734e259ec1122d442d"
+    },
+    {
+      "file": "parking/annotations.xml",
+      "lines": 75,
+      "sha256": "7458bbcff8d327408eac390cbe9d96bc5ceb8653bd7db7eaa862b5c681ab7cee"
+    },
+    {
+      "file": "parking/observations.md",
+      "lines": 6,
+      "sha256": "f5d6121dbe45a40e76baff961dfb5a3c4f284a5060727575926f9b1f5ebbe194"
+    },
+    {
+      "file": "p1_calib/annotations.xml",
+      "lines": 280,
+      "sha256": "0b58cb82819fb90894ec7eb3f74e8f820dd157b5da4a0aeddd1b9309d928f8e3"
+    },
+    {
+      "file": "p1_calib/lock.txt",
+      "lines": 19,
+      "sha256": "c8fd629e10783371a08ea7cd3ea6ab470689322e97dc828ded47f1d15d028a56",
+      "locked_at": "2026-09-28T17:41:43+07:00"
+    },
+    {
+      "file": "p1_calib/reference.txt",
+      "lines": 3,
+      "sha256": "d1e26255bb2bbfc87fce6a86c6b77ee530b5482e83eedaa27eae26ba9c86627c",
+      "lock_before_reveal": true
+    },
+    {
+      "file": "p1_calib/compare.md",
+      "lines": 15,
+      "sha256": "93de8d3755924925ab04ee2fa13460e646bc07e42cd795cbcfa47c4c4ef9aca7"
+    },
+    {
+      "file": "p1_calib/compare.html",
+      "lines": 28,
+      "sha256": "49ed8b248917c2d5405ab9cac95fc7d2c7e2c6ca8cd0bd119be90ab0c186283e"
+    },
+    {
+      "file": "r1_craft/annotations.xml",
+      "lines": 396,
+      "sha256": "017e1170c3ea8374f68ccf3c85fbd3fa3e3f704d45bfef0e9c4b1e6666c7007d"
+    },
+    {
+      "file": "r1_craft/lock.txt",
+      "lines": 9,
+      "sha256": "a98a55fec8a5762b716373695bab8aa51369a042b3ee4bb375532502796fad69",
+      "locked_at": "2026-09-29T09:41:19+07:00"
+    },
+    {
+      "file": "r1_craft/selfqc.md",
+      "lines": 16,
+      "sha256": "a280f33f67390db3865f9c38809d6185efa4a3c2bf614eb7e1aa15ba10d56bd4"
+    },
+    {
+      "file": "r1_craft/reference.txt",
+      "lines": 3,
+      "sha256": "5f3835a3d9ba3a3b800f4c46dde890f47471fd03c13f58dc3da4f9319476ab18",
+      "lock_before_reveal": true
+    },
+    {
+      "file": "r1_craft/compare.md",
+      "lines": 26,
+      "sha256": "2bbe215110828ff9110d44d993ba0e8825fc6906139ee140b829d44251d10819"
+    },
+    {
+      "file": "r1_craft/compare.html",
+      "lines": 100,
+      "sha256": "f7c64e745d3b3006a063f80ad11f9cead9f067ebf9ec369e172f0c42f91483bb"
+    },
+    {
+      "file": "r2_qa/qa_review.md",
+      "lines": 11,
+      "sha256": "05a749549682ff6f027c44185bf9b5af453258448e719082c31ac8ed1de895e9"
+    },
+    {
+      "file": "r2_qa/qa_overlay.html",
+      "lines": 60,
+      "sha256": "7bfd59dd7877422e1c9801e0abdeaed790b1ccc308bc853adf2bb8752e08bc88"
+    },
+    {
+      "file": "r3_diag/local_quality.md",
+      "lines": 49,
+      "sha256": "b51b7239867ea44f66ef330251f744d0e07ff489f11657fdb8886d8ccb06ced6"
+    },
+    {
+      "file": "r3_diag/local_quality.json",
+      "lines": 320,
+      "sha256": "8f4fe989ab3045cb6c0d9a99ba11dfac3a72009f642ad87a93dd67338af5df76"
+    },
+    {
+      "file": "r3_diag/local_quality_conflicts.csv",
+      "lines": 15,
+      "sha256": "1cb24ffe40b6d8d5098f682c505939b455d0d012f08c042ec38f71e67a40dd1c"
+    },
+    {
+      "file": "r3_diag/local_quality_confusion.csv",
+      "lines": 7,
+      "sha256": "20ff2b06b75226ccd4c1899288f230c7a86a44738cb4935ce1d6f9db829981fc"
+    },
+    {
+      "file": "r3_diag/model_compare.md",
+      "lines": 47,
+      "sha256": "7c21f92b3d221b61387e903e90932316467862c1563a4267c9e41009808f46ea"
+    },
+    {
+      "file": "r3_diag/model_compare.html",
+      "lines": 134,
+      "sha256": "077fe00c355e9b36f95ba1eb8a07c1e076503209e92311a9de22db62f069c59d"
+    },
+    {
+      "file": "r3_diag/zone_table.md",
+      "lines": 16,
+      "sha256": "18ee57a11e8487a1acfb0e1641e2442102a83033499ae18718559a553a5c8e39"
+    },
+    {
+      "file": "rework/annotations-v2.xml",
+      "lines": 396,
+      "sha256": "6d0818f65f11e8ee937f8869a8c3c1fb73f2f8f65fbe0fb133ee14e40168721a"
+    },
+    {
+      "file": "rework/lock2.txt",
+      "lines": 19,
+      "sha256": "3c451eaa772ed47782563050cbbe672e80ea2327ae762542efd95d9ffaffd21a",
+      "locked_at": "2026-09-29T10:20:37+07:00"
+    },
+    {
+      "file": "rework/delta.md",
+      "lines": 9,
+      "sha256": "333aa5bc1443a4182ebc9ae960d2fad86407d00413c3c51a24d2752c0dc245d0"
+    },
+    {
+      "file": "findings.csv",
+      "lines": 39,
+      "sha256": "d3726963d0d78c9f99f82c2c077b6814c64d561897b2311ac42f9e12413e052c"
+    },
+    {
+      "file": "10_error_card.md",
+      "lines": 29,
+      "sha256": "5bbaf31524f71e4432db696534899d9356b5871b1ef7a704084011d5f954b0fa"
+    },
+    {
+      "file": "20_guideline_patch.md",
+      "lines": 7,
+      "sha256": "ff9075c0116631e642361a1bb742e3a0949cc034dab20fcb8775b2395e40e90f"
+    },
+    {
+      "file": "30_escalation_ticket.md",
+      "lines": 9,
+      "sha256": "4aaeb3e0ac5988120652b4f0f28417144b4dbf81a6d40d25aa982b6a32e098a0"
+    },
+    {
+      "file": "40_decision_log.csv",
+      "lines": 1,
+      "sha256": "b08969b09d2c53145049c164142f6d8790d023a7e35a3c3e47eb6836408869f5"
+    },
+    {
+      "file": "45_review_plan.md",
+      "lines": 16,
+      "sha256": "29f856da932b47503fa55ac3191a895217c7a6337002bed1484322bd2518ba81"
+    },
+    {
+      "file": "45_sampling_plan.csv",
+      "lines": 9,
+      "sha256": "69a928a108795807e710e6e422831daebead4dc21f3b33841d8bdcef8a46c319"
+    },
+    {
+      "file": "46_gold_set_plan.md",
+      "lines": 18,
+      "sha256": "494b2cd3c219a83166c1202296574adfcea3ca8e6b844a1c669e813e9df8c30f"
+    },
+    {
+      "file": "50_exit_ticket.md",
+      "lines": 11,
+      "sha256": "a83b35348a01fda898a9554d9b21661e400e04cd4a2e079c058460f2e9087f9e"
+    }
+  ],
+  "failed_gates": [
+    "Dòng 15: r3_diag thiếu why, severity, owner, action",
+    "Dòng 16: r3_diag thiếu why, severity, owner, action",
+    "Dòng 17: r3_diag thiếu why, severity, owner, action",
+    "Dòng 18: r3_diag thiếu why, severity, owner, action",
+    "Dòng 19: r3_diag thiếu why, severity, owner, action",
+    "Dòng 20: r3_diag thiếu why, severity, owner, action",
+    "Dòng 21: r3_diag thiếu why, severity, owner, action",
+    "Dòng 22: r3_diag thiếu why, severity, owner, action",
+    "… còn 17 lỗi dòng findings nữa (sửa các dòng trên rồi chạy lại)",
+    "findings cần ≥3 dòng vai r2_qa",
+    "decision log cần ≥4 entry và ≥1 escalated",
+    "45_sampling_plan.csv chưa phải bảng phân bổ hợp lệ",
+    "Còn TODO trong 46_gold_set_plan.md",
+    "Còn TODO trong 50_exit_ticket.md",
+    "screenshots cần ≥2 ảnh"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "members": [
+    "vudinhsonlam"
+  ],
+  "assignments": {
+    "vudinhsonlam": "B3-dense"
+  },
+  "self": "vudinhsonlam",
+  "slice": "B3-dense",
+  "degrade": [
+    "k12"
+  ],
+  "current_slice": "B3-dense",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": [
+    "adasind_145860.jpg:1"
+  ]
+}
